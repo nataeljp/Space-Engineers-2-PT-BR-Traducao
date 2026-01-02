@@ -1,0 +1,17 @@
+{
+  "KillMessageSuffocation": "Seu sistema de vida falhou.",
+  "KillMessageNoEnergy": "Seu sistema de vida falhou.",
+  "KillMessageWeapon": "Você foi gravemente ferido por um projétil.",
+  "KillMessageExplosive": "Você morreu em uma explosão próxima.",
+  "KillMessageImpact": "Você morreu em uma colisão.",
+  "KillMessageWeather": "Você foi gravemente ferido por um evento climático.",
+  "KillMessageAccident": "Você morreu em um acidente industrial.",
+  "KillMessageRadiation": "Você foi envenenado por um gás radioativo.",
+  "KillMessageRespawn": "Você solicitou um respawn manual.",
+  "KillMessageHibernation": "Você morreu em seu criopode quando ele foi destruído.",
+  "KillMessageTimeout": "Bem-vindo(a)",
+  "RespawnPendingText": "Reiniciando...",
+  "DeathFanFareTitle": "{DeathReason}",
+  "KillMessageCustomDamageSource": "",
+  "KillMessageUnknown": "Você morreu."
+}
